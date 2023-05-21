@@ -5,6 +5,11 @@ Daniil Kirilenko, Anton Andreychuk, Aleksandr Panov, Konstantin Yakovlev, "Trans
 
 ![Visual abstract](images/visual_abstract.png)
 
+## with neural A*
+```
+git clone --recursive <URL>
+```
+
 ## Data
 Train, validation, and test maps with pre-computed values mentioned in our paper are available [here](https://disk.yandex.ru/d/xLeW_jrUpTVnCA). One can download and exctract it manually or just run `download.py`.
 

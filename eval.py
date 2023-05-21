@@ -10,7 +10,7 @@ from tqdm import tqdm
 import argparse
 
 
-def main(mode, state_dict_path, hardness_limit=1.05):
+def main(mode, state_dict_path, hardness_limit=1.15):
     device = 'cuda'
     
     test_data = GridData(

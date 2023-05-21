@@ -131,4 +131,5 @@ dmypy.json
 
 
 TransPath_data
+TransPath_runs
 wandb
